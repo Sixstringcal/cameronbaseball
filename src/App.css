@@ -11,6 +11,28 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+  
+}
+
+a {
+  color: azure;
+}
+
+a:hover {
+  color: yellow;
+}
+
+
+.carouselImage {
+    width:900px;
+    height:500px;
+    margin: auto;
+  }
+
+.icon {
+  height: 40px;
+  width: auto;
+  padding-right: 10px;
 }
 
 .App-header {
